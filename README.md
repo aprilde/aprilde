@@ -1,8 +1,6 @@
 # Hi, I'm April 👋
 
-Senior Product Manager based in Toronto. I work on growth and activation for a self-serve B2B SaaS platform in the ticketing space, with earlier product and design experience across media, health wearables, and event technology.
-
-This profile is where I build in the open. Right now my focus is practical: figuring out what AI actually changes about the product manager's job, and proving it by shipping small things rather than just writing about them.
+Senior Product Manager based in Toronto. This profile is where I build in the open. Right now my focus is practical: figuring out what AI actually changes about the product manager's job, and proving it by shipping small things rather than just writing about them.
 
 ## What I'm exploring
 
@@ -12,17 +10,13 @@ I'm building prototypes and tools to pressure-test where AI is genuinely useful 
 
 **[PM Stakeholder Agents](https://github.com/aprilde/pm-stakeholder-agents)** — Claude Code subagents that review a PRD, roadmap, or decision doc through the lens of a specific non-technical stakeholder, surfacing the objections you'd hit before you walk into the room. Two verticals are built and working (B2B SaaS and Marketplace).
 
-## Where I've shipped
+## My product experience
 
 Outside these experiments, my product experience is in the work itself rather than this profile:
 
 - **Growth and activation** for a self-serve B2B SaaS product: onboarding, funnel conversion, and data-driven iteration with experimentation tooling
 - **Event and ticketing technology**: purchase flows, organizer-facing tools, and payout workflows including multi-currency settlement
 - **Cross-functional product leadership**: leading squads across engineering, design, and data, with a design background that keeps me close to the user experience
-
-## How I work
-
-I come from design, so I think in user problems first. I like working in structured environments, leading by example, and validating an idea with a rough prototype before committing engineering time to it. These days that often means vibe-coding something testable in an afternoon rather than writing a ten-page spec.
 
 **Toolkit:** SQL · BigQuery · Amplitude · Contentsquare · Figma · Claude Code · Anthropic API · React · Tailwind
 
