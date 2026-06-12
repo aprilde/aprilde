@@ -1,6 +1,6 @@
 # Hi, I'm April 👋
 
-Senior Product Manager based in Toronto. This profile is where I build in the open. Right now my focus is practical: figuring out what AI actually changes about the product manager's job, and proving it by shipping small things rather than just writing about them.
+I'm a Product Manager based in Toronto. This profile is where I build in the open. Right now my focus is practical: figuring out what AI actually changes about the product manager's job, and proving it by shipping small things rather than just writing about them.
 
 ## What I'm exploring
 
