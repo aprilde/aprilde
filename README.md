@@ -14,4 +14,4 @@ I'm building prototypes and tools to pressure-test where AI is genuinely useful 
 
 ## Let's connect 
 
-[LinkedIn — April De Zen](https://www.linkedin.com/in/april-de-zen/)
+[LinkedIn - April De Zen](https://www.linkedin.com/in/april-de-zen/)
