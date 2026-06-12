@@ -12,6 +12,6 @@ I'm building prototypes and tools to pressure-test where AI is genuinely useful 
 
 **[PM Stakeholder Agents](https://github.com/aprilde/pm-stakeholder-agents)** — Claude Code subagents that review a PRD, roadmap, or decision doc through the lens of a specific non-technical stakeholder, surfacing the objections you'd hit before you walk into the room. Two verticals are built and working (B2B SaaS and Marketplace).
 
-## Let's connect
+## Let's connect 
 
 [LinkedIn — April De Zen](https://www.linkedin.com/in/april-de-zen/)
