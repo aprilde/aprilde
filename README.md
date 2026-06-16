@@ -4,7 +4,7 @@ I'm a Product Manager based in Toronto. This profile is where I build in the ope
 
 ## What I'm exploring
 
-I'm building prototypes and tools to pressure-test where AI is genuinely useful in a product workflow, not where it's hype. Two pieces are live:
+I'm building prototypes and tools to pressure-test where AI is genuinely useful in a product workflow, not where it's hype. Here is what's live:
 
 **[Daily Lift](https://github.com/aprilde/daily-lift)**: a learning project documenting an AI-assisted product lifecycle from idea to interactive prototype to a multi-role review, where AI agents act as cross-functional teammates pressure-testing the plan, through to a scoped build. The product is a beginner home-workout widget, but the repo's real subject is the process.
 
